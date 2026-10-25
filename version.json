@@ -1,0 +1,6 @@
+{
+  "versionCode": 2,
+  "versionName": "1.1.0",
+  "apkUrl": "https://github.com/ddevjani/family-ringer-releases/releases/download/v1.1.0/FamilyRinger.apk",
+  "releaseNotes": "Remote auto-update support, strict caller matching (no family contact leak), new app icon."
+}
